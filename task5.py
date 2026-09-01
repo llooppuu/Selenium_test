@@ -1,12 +1,3 @@
-"""
-Ülesanne 5 – Navigatsioon.
-
-- Avab The Internet avalehe.
-- Klõpsab lingil "Checkboxes".
-- Märgib mõlemad checkbox'id.
-- Läheb Seleniumi abil eelmisele lehele tagasi.
-"""
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time

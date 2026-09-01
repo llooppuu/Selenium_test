@@ -1,12 +1,3 @@
-"""
-Ülesanne 4 – Vormitäitmine.
-
-- Avab sisselogimislehe.
-- Sisestab kasutajanime ja parooli.
-- Vajutab Login.
-- Kontrollib, kas sisselogimine õnnestus.
-"""
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time

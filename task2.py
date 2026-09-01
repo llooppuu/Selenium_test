@@ -1,10 +1,3 @@
-"""
-Ülesanne 2 – Leia mitu elementi.
-
-Avab quotes.toscrape.com lehe, leiab kõik esimese lehe
-tsitaadid ja autorid ning prindib need terminali.
-"""
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time

@@ -1,15 +1,6 @@
-"""
-Ülesanne 3 – Nuppudele klõpsamine.
-
-- Avab Add/Remove Elements lehe.
-- Vajutab "Add Element" nuppu 5 korda.
-- Kustutab kõik lisatud elemendid ühe kaupa.
-"""
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-
 
 driver = webdriver.Chrome()
 
